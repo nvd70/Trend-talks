@@ -34,3 +34,4 @@ git clone https://github.com/yourusername/news-app.git
 
 ## Credits
 This application was developed by Ch. N.V.D Prashanth.
+
