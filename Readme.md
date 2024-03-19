@@ -1,6 +1,11 @@
 # News App
 The News App is a modern web application designed to keep users informed with up-to-date news articles from various sources. Powered by the News API, it offers a seamless browsing experience with intuitive features and responsive design.
 
+## Screenshots
+
+### [HomePage](https://drive.usercontent.google.com/download?id=1UFlhjEuDRql3q5j3kkUDM9WA6EukDxtt&authuser=0)
+### [Search](https://drive.usercontent.google.com/download?id=1MD5dr8wErv7d4M-M7id-05BwothUHsJj&authuser=0)
+
 ## Features
 - Dynamic Search: Effortlessly find news articles by entering keywords in the search bar. Instantly retrieve relevant results and stay informed on topics of interest.
 
